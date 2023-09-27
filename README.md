@@ -22,7 +22,7 @@
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg' alt='nodeJs' title='nodeJs' width='50' height='50'/>
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg' alt='Firebase' title='Firebase' width='50' height='50'/> 
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg' alt='Jest' title='Jest' width='50' height='50'/>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg' alt='Docker' title='Docker' width='50' height='50'/>
+    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg' alt='Docker' title='Docker' width='50' height='50'/>
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg' alt='Figma' title='Figma' width='50' height='50'/> 
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-original-wordmark.svg' alt='Redis' title='Redis' width='50' height='50'/>
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg' alt='Angular' title='Angular' width='50' height='50'/>
